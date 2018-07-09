@@ -1,0 +1,14 @@
+{
+    "rules": {
+        "spellcheck-tech-word": true,
+        "preset-ja-technical-writing": {
+          "max-ten": {
+            max: 7
+          },
+          "sentence-length": {
+            max: 145
+        },
+         "ja-no-weak-phrase": false
+      }
+    }
+}

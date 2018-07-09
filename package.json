@@ -1,0 +1,19 @@
+{
+  "name": "02b-contents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "textlint ./*.md",
+    "lintfix": "textlint --fix ./*.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "textlint": "^10.2.1",
+    "textlint-rule-preset-ja-technical-writing": "^2.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
